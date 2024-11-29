@@ -11,10 +11,12 @@ This is a beautifully designed, responsive landing page that showcases the art o
 - **Social Media Integration**: Links to Instagram, Facebook, and other platforms for wider engagement.  
 
 ## Technologies Used
-- **HTML5**: For the structure of the landing page.  
-- **CSS3**: For styling, animations, and ensuring a visually appealing design.  
-- **JavaScript**: For interactive features like smooth scrolling and form validation.  
-- **Font Awesome/Google Fonts**: To enhance the page with beautiful icons and typography.  
+| Technology   | Description                                             |
+|--------------|---------------------------------------------------------|
+| **HTML5**    | For the structure of the landing page |
+| **CSS3**     | For styling, animations, and ensuring a visually appealing design.             |
+| **Git**      | Version control used for managing the project codebase.  |
+| **GitHub**   | Hosting platform for the repository and collaboration.  |
 
 ## How to Use
 1. Clone this repository:  
