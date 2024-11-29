@@ -19,4 +19,5 @@ This is a beautifully designed, responsive landing page that showcases the art o
 ## How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/calligraphy-landing-page.git
+   https://github.com/wajiha-kulsum/PRODIGY_WD_01.git
+   
