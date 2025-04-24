@@ -1,7 +1,7 @@
 # Calligraphy Landing Page
 
 ## Deployed Link 
-1. Clone this repository:  
+1. Click Below:  
    ```bash
    https://quillquest-ten.vercel.app/
    
