@@ -1,10 +1,8 @@
 # Calligraphy Landing Page
 
 ## Deployed Link 
-1. Click Below:  
-   ```bash
-   https://quillquest-ten.vercel.app/
-   
+Check out the live version here: [QuillQuest Live]( https://quillquest-ten.vercel.app/)
+
 
 
 ## Overview
